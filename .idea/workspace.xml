@@ -9,9 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cacc03c4-f9e6-4e89-9de3-f07d86ca0bfb" name="Default" comment="Update">
+    <list default="true" id="cacc03c4-f9e6-4e89-9de3-f07d86ca0bfb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Subjects/Core/CoreNodes.cpp" afterPath="$PROJECT_DIR$/Subjects/Core/CoreNodes.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -387,7 +386,7 @@
       <updated>1493117157942</updated>
       <workItem from="1493117160190" duration="2540000" />
       <workItem from="1493119918808" duration="3493000" />
-      <workItem from="1493130367157" duration="1023000" />
+      <workItem from="1493130367157" duration="1034000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1493118625214</created>
@@ -410,15 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1493120574650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1493131395863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493131395863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7056000" />
+    <option name="totallyTimeSpent" value="7067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="15" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17630059" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
