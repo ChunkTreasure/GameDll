@@ -78,6 +78,7 @@ public:
 			{
 
                 COnlineCheck OC;
+                CMain Main;
 
 				if (IsPortActive(pActInfo, EIP_StartGame)) {
 
